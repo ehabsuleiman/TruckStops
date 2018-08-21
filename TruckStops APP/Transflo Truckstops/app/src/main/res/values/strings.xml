@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Truck Stops</string>
+    <string name="title_activity_maps">Truck Stops</string>
+    <string name="gps_network_not_enabled">GPS not Enabled, do you want to enable?</string>
+    <string name="open_location_settings">Yes</string>
+    <string name="Cancel">No</string>
+</resources>
